@@ -10,4 +10,4 @@
 - отображение состояния задач по дате - просрочено/не просрочено
 
 ### Ссылка на приложение:
-todolist-brozerk.web.app/
+[todolist-brozerk.web.app](https://todolist-brozerk.web.app/)
